@@ -1,10 +1,10 @@
-Used Technologies  |
-------------- |
-React 18.2 |
-Bootstrap 5.2 |
-Reactstrap 9.1 | 
-Reac Router 6.4 |
-Alertifyjs 1.13 |
+Used Technologies  | Versions
+------------- | -------------
+React | 18.2.0
+Bootstrap | 5.2.3
+Reactstrap | 9.1.5
+Reac Router | 6.4.5
+Alertifyjs | 1.13.1
 
 ![Screenshot_1](https://user-images.githubusercontent.com/99591534/207963840-3bf8e029-3cc9-4db3-ab7c-03c390a651ed.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/99591534/207963841-e06b1608-8a17-43ff-a9da-c37a60626cb6.png)
